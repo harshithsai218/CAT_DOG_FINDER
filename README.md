@@ -1,4 +1,4 @@
-# requirement :
+# Requirement :
 
 ```
 anaconda (optional) : for crearing an environment for your safety 
